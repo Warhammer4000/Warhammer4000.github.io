@@ -1,7 +1,7 @@
 // config.js
 module.exports = {
     github: {
-        username: 'arifszn', // Your GitHub org/user name. (Required)
+        username: 'Warhammer4000', // Your GitHub org/user name. (Required)
         sortBy: 'stars', // stars | updated
         limit: 8, // How many projects to display.
         exclude: {
@@ -10,75 +10,48 @@ module.exports = {
         }
     },
     social: {
-        linkedin: 'ariful-alam',
-        twitter: 'arif_swozon',
-        facebook: '',
+        linkedin: 'tanimulhaquekhan',
+        twitter: '',
+        facebook: 'https://www.facebook.com/',
         dribbble: '',
         behance: '',
         medium: '',
         devto: '',
-        website: 'https://arifszn.github.io',
-        email: 'contact@arifszn.com'
+        website: 'https://warhammer4000.github.io',
+        email: 'tanimul.haque@brainstation-23.com'
     },
     skills: [
-        'PHP',
-        'Laravel',
-        'JavaScript',
-        'React.js',
-        'Vue.js',
-        'Node.js',
-        'Jquery',
-        'MySQL',
-        'Git',
-        'CSS',
-        'Antd',
-        'Tailwind',
-        'Bootstrap',
+        'C#',
+        'Unity3D',
+        '.NET',
     ],
     experiences: [
         { 
-            company: 'Monstarlab Bangladesh',
-            position: 'Software Engineer',
-            from: 'September 2021',
+            company: 'Brain Station 23',
+            position: 'Business Unit Head',
+            from: 'January 2021',
             to: 'Present'
         },
         { 
-            company: 'Orangetoolz - My Offer 360 Degree',
-            position: 'Jr. Full Stack Engineer',
-            from: 'July 2019',
-            to: 'August 2021'
-        },
-        { 
-            company: 'Techvillage',
-            position: 'Jr. Software Engineer',
-            from: 'January 2019',
-            to: ' June 2019'
+            company: 'iQuantile',
+            position: 'Project Manager',
+            from: 'July 2017',
+            to: 'September 2018'
         }
     ],
     education: [
         { 
             institution: 'American International University-Bangladesh',
-            degree: 'Bachelor of Science',
+            degree: 'Bachelor of Software Engineering',
             from: '2015',
-            to: '2019'
-        },
-        { 
-            institution: 'Cantonment College, Jessore',
-            degree: 'Higher Secondary Certificate (HSC)',
-            from: '2012',
-            to: '2014',
-        },
-        { 
-            institution: 'Chowgacha Shahadat Pilot High School',
-            degree: 'Secondary School Certificate (SSC)',
-            from: '2007',
-            to: '2012'
+            to: '2018'
         }
+       
     ],
     blog: {
         // Display blog posts from your medium or dev.to account. (Optional)
-        source: 'dev.to', // medium | dev.to
-        username: 'arifszn',
+        source: 'medium', // medium | dev.to
+        username: '2takardeveloper',
         limit: 3 // How many posts to display. Max is 10.
     },
     googleAnalytics: {
