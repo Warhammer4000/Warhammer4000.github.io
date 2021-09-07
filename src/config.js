@@ -12,10 +12,10 @@ module.exports = {
     social: {
         linkedin: 'tanimulhaquekhan',
         twitter: '',
-        facebook: 'https://www.facebook.com/',
+        facebook: 'tanimul.khan',
         dribbble: '',
         behance: '',
-        medium: '',
+        medium: '2takardeveloper',
         devto: '',
         website: 'https://warhammer4000.github.io',
         email: 'tanimul.haque@brainstation-23.com'
@@ -45,6 +45,18 @@ module.exports = {
             degree: 'Bachelor of Software Engineering',
             from: '2015',
             to: '2018'
+        },
+        { 
+            institution: 'BCIC College',
+            degree: 'HSC',
+            from: '2012',
+            to: '2014'
+        },
+        { 
+            institution: 'Monipur High School',
+            degree: 'SSC',
+            from: '2002',
+            to: '2012'
         }
        
     ],
